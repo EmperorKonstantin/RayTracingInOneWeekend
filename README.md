@@ -11,3 +11,6 @@
   https://github.com/nothings/stb
   https://github.com/define-private-public/PSRayTracing/search?q=stb_image_write
   https://github.com/define-private-public/PSRayTracing/search?q=stb_image
+
+  ## Book
+  - https://raytracing.github.io/books/RayTracingInOneWeekend.html
